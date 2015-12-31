@@ -25,3 +25,21 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+# dest
+dist
+
+# eclipse
+.settings/
+.project
+.classpath
+
+# idea
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# system
+.DS_Store
+Thumbs.db
